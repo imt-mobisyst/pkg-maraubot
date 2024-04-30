@@ -1,4 +1,4 @@
-from  . import world, bot, wizard
+from  . import world, bot, frame
 
 # Components:
 World= world.World
@@ -10,5 +10,5 @@ def hello():
 """demonstrate pycairo and pygame"""
 
 def main():
-    ihm= wizard.Wizard()
+    ihm= frame.Frame()
     ihm.process()

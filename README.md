@@ -19,7 +19,7 @@ git clone git@github.com:imt-mobisyst/pkg-maraubot.git
 
 ### MarauBotMap
 
-`MarauBotMap` should be installed on your computer using `pip`.
+`MarauBotMap` need to be installed on your computer using `pip`.
 
 ```sh
 pip install cairo pygame

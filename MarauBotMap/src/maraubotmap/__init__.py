@@ -1,14 +1,9 @@
-from  . import world, bot, frame
+from  . import body, world
 
 # Components:
 World= world.World
+Body= body.Body
 
 def hello():
     print( "Hello From MarauBot-Map" )
 
-#!/usr/bin/env python
-"""demonstrate pycairo and pygame"""
-
-def main():
-    ihm= frame.Frame()
-    ihm.process()

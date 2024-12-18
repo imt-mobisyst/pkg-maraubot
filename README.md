@@ -1,6 +1,6 @@
 # MarauBot 
 
-Simple 2D robot model and simulation, based on Python and [Cairo](https://pypi.org/project/pycairo/) Librairy.
+Simple 2D robot model and simulation, based on Python [shapely](https://pypi.org/project/shapely/) and [Cairo](https://pypi.org/project/pycairo/)+[pygame](https://pypi.org/project/pygame/) Librairy for rendering.
 
 Project Components:
 
@@ -22,7 +22,7 @@ git clone git@github.com:imt-mobisyst/pkg-maraubot.git
 `MarauBotMap` need to be installed on your computer using `pip`.
 
 ```sh
-pip install cairo pygame
+pip install shapely cairo pygame
 pip install ./pkg-maraubot/MarauBotMap
 ```
 

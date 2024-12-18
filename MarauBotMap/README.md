@@ -1,3 +1,0 @@
-# MarauBot-Map
-
-...
